@@ -1,0 +1,13 @@
+{
+	"name": "Getlookupdata_SQL",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "SqlSource",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
